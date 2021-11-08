@@ -10,6 +10,7 @@ Here are 4 key takeaways from the analysis I completed:
 - The most common position being vacated is Senior Engineer with 29,414 people up for retirement soon.
 - The least common position is Manager, with 2 people. So Pewlett Hackard won't have to put much emphasis on finding managers.
 <img width="214" alt="Screen Shot 2021-11-08 at 3 10 37 PM" src="https://user-images.githubusercontent.com/90946252/140818729-8c23f4bc-654d-4697-a21d-1ccf038de738.png">
+
 - There are 1,549 people eligible for the mentorship program
 - There are 90,398 positions that will be vacated and 1,549 potential mentors. Meaning there is a 58:1 ratio of open poistions to mentors - not accounting for job title.
 
