@@ -15,7 +15,7 @@ Here are 4 key takeaways from the analysis I completed:
 - There are 90,398 positions that will be vacated and 1,549 potential mentors. Meaning there is a 58:1 ratio of open poistions to mentors - not accounting for job title.
 
 ## Summary
-I have listed two critical questions that we can begin to discuss with the provided analysis with the upcoming "silver tsunami".
+I have listed two critical questions that we can begin to discuss with the provided analysis for the upcoming "silver tsunami".
 
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 - There are 90,398 positions that will need to be filled in the near future if the current organization structure stays intact. Will all of this turnover, this is a prime opportunity to do further analysis to see if all these rolls need to be filled or if there is a more streamlined structure that better fits today's business needs.
