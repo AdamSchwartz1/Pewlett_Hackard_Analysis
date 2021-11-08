@@ -16,10 +16,12 @@ Here are 4 key takeaways from the analysis I completed:
 
 ## Summary
 I have listed two critical questions that we can begin to discuss with the provided analysis with the upcoming "silver tsunami".
+
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 - There are 90,398 positions that will need to be filled in the near future if the current organization structure stays intact. Will all of this turnover, this is a prime opportunity to do further analysis to see if all these rolls need to be filled or if there is a more streamlined structure that better fits today's business needs.
-- Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-I don't believe there are enough people eligible for this mentorship program. I think it's safe to say that not everyone will want to participate in this program either so the number of individuals willing to become a mentor could be significantly less than the amount eligible. Additionally, the current plan is for them to have part-time rolls which will not provide adequate time to mentor all of the new employees.
+
+Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+- I don't believe there are enough people eligible for this mentorship program. I think it's safe to say that not everyone will want to participate in this program either so the number of individuals willing to become a mentor could be significantly less than the amount eligible. Additionally, the current plan is for them to have part-time rolls which will not provide adequate time to mentor all of the new employees.
 
 There are two additional tables that I think would be beneficial to plan for the silver tsunami:
 1. The first table would be to identify individuals who are eligible for a promotion. We could look for people who are in a non-senior rolls (i.e. engineer and staff) for more than 5 years and were born after the year 1970. This will allow Pewlett Hackard to fill some of the senior rolls from within and reward some long time employees while also creating some more entry level jobs that may be easier to fill.
