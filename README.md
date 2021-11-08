@@ -18,7 +18,7 @@ Here are 4 key takeaways from the analysis I completed:
 I have listed two critical questions that we can begin to discuss with the provided analysis for the upcoming "silver tsunami".
 
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-- There are 90,398 positions that will need to be filled in the near future if the current organization structure stays intact. Will all of this turnover, this is a prime opportunity to do further analysis to see if all these rolls need to be filled or if there is a more streamlined structure that better fits today's business needs.
+- There are 90,398 positions that will need to be filled in the near future if the current organization structure stays intact. With all of this turnover, this is a prime opportunity to do further analysis to see if all these rolls need to be filled or if there is a more streamlined structure that better fits today's business needs.
 
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 - I don't believe there are enough people eligible for this mentorship program. I think it's safe to say that not everyone will want to participate in this program either so the number of individuals willing to become a mentor could be significantly less than the amount eligible. Additionally, the current plan is for them to have part-time rolls which will not provide adequate time to mentor all of the new employees.
